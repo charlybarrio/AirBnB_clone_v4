@@ -157,7 +157,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Carlos Barrio - [Github](https://github.com/charlybarrio)
+Carlos Barrio - [Github](https://github.com/charlybarrio)  
 Santiago Vidarte - [Github](https://github.com/TheHaruYoshida)
 
 Second part of Airbnb: Joann Vuong
